@@ -1,0 +1,60 @@
+.bh,.bs,.brr,.bl{
+	border: 3px solid blue;
+	color: red;
+}
+
+.cont{
+	background-image: url(office.jpg);
+	background-blend-mode: overlay;
+	background-color: rgba(49, 12, 12, 0.76);
+	background-size: cover;
+}
+.jumbo{
+    padding-bottom: 15rem;
+    padding-top: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-top: 2rem;
+    border-radius: 0.3rem;
+    color: white;
+    text-align: center;
+}
+.word{
+	font-weight: 500;
+	font-size: 21px;
+}
+.button01{
+	margin: 0px 12px;
+	padding: 6px 12px;
+}
+.button01:hover{
+	background-color: lightgrey;
+}
+.btext{
+	color: blue;
+}
+.btext:hover{
+	background-color: lightgrey;
+	color: white;
+}
+
+.footer{
+	background-color: rgb(59, 12, 12);
+	margin-top: 2rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.link{
+	margin-left: 1.5rem;
+}
+.cont2{
+	background-color: rgb(59, 12, 12); 
+}
+.Lform{
+	padding-left: 15rem;
+	padding-right: 15rem;
+	padding-bottom: 10rem;
+}
+.tc{
+	margin-top: 5rem;
+}
